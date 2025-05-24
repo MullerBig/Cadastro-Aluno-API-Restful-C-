@@ -1,0 +1,119 @@
+[
+  {
+    "ContainingType": "API_Aluno_NetCore8.Controllers.AlunoController",
+    "Method": "ObterId",
+    "RelativePath": "Aluno/{Aluno_Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Aluno_Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Aluno_NetCore8.Controllers.AlunoController",
+    "Method": "Create",
+    "RelativePath": "Aluno/CriarAluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluno",
+        "Type": "API_Aluno_NetCore8.Entities.Aluno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Aluno_NetCore8.Controllers.DisciplinaController",
+    "Method": "ObterId",
+    "RelativePath": "Disciplina/{Disciplina_Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Disciplina_Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Aluno_NetCore8.Controllers.DisciplinaController",
+    "Method": "Create",
+    "RelativePath": "Disciplina/CriarDisciplina",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "disciplina",
+        "Type": "API_Aluno_NetCore8.Entities.Disciplina",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Aluno_NetCore8.Controllers.NotaController",
+    "Method": "ObterId",
+    "RelativePath": "Nota/{Nota_Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Nota_Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Aluno_NetCore8.Controllers.NotaController",
+    "Method": "Create",
+    "RelativePath": "Nota/CriarNota",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nota",
+        "Type": "API_Aluno_NetCore8.Entities.Nota",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Aluno_NetCore8.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[API_Aluno_NetCore8.WeatherForecast, API-Aluno-NetCore8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

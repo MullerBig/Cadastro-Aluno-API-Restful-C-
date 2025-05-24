@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geova\\source\\repos\\API-Aluno-NetCore8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1C17DF-23D4-4195-88A0-A61F0CDE73F6}|API-Aluno-NetCore8\\API-Aluno-NetCore8.csproj|c:\\users\\geova\\source\\repos\\api-aluno-netcore8\\api-aluno-netcore8\\entities\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1C17DF-23D4-4195-88A0-A61F0CDE73F6}|API-Aluno-NetCore8\\API-Aluno-NetCore8.csproj|solutionrelative:api-aluno-netcore8\\entities\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\geova\\source\\repos\\API-Aluno-NetCore8\\API-Aluno-NetCore8\\Entities\\Disciplina.cs",
+              "RelativeDocumentMoniker": "API-Aluno-NetCore8\\Entities\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\geova\\source\\repos\\API-Aluno-NetCore8\\API-Aluno-NetCore8\\Entities\\Disciplina.cs",
+              "RelativeToolTip": "API-Aluno-NetCore8\\Entities\\Disciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:11:57.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
